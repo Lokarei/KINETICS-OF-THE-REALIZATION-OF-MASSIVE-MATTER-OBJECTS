@@ -1,0 +1,22 @@
+% main.tex  \documentclass[draft]{...}
+%\documentclass[a4paper,12pt]{article}
+\documentclass[a4paper,14pt]{extarticle}
+\input{preamble}          % подключаем преамбулу
+\setkeys{Gin}{draft} % Включает режим черновика для всех изображений
+%\includeonly{sections/sec_sound}
+
+\begin{document}
+
+\input{title}             % титульный лист и аннотация
+
+% Список глав (включаются последовательно)
+\input{sections/sec_intro}
+\include{sections/sec_params}
+\include{sections/sec_balance}
+\include{sections/sec_direction}
+\include{sections/sec_lambda}
+\include{sections/sec_concentration}
+\include{sections/sec_gas}
+\include{sections/sec_sound}
+
+\end{document}
