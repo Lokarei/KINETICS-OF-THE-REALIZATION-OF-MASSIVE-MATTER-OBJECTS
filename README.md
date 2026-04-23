@@ -35,4 +35,4 @@
 
 ---
 
-**Оригинальная работа:** *Кинетика осуществления объектов весомой материи. Проект «Эфир»* ([PDF предоставлен для ознакомления ](https://github.com/Lokarei/KINETICS-OF-THE-REALIZATION-OF-MASSIVE-MATTER-OBJECTS/releases/download/final-article2/main.pdf)
+**Оригинальная работа:** *Кинетика осуществления объектов весомой материи. Проект «Эфир»* ([PDF предоставлен для ознакомления ](https://github.com/Lokarei/KINETICS-OF-THE-REALIZATION-OF-MASSIVE-MATTER-OBJECTS/releases/download/final-article/main.pdf)
